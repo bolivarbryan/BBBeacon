@@ -1,0 +1,12 @@
+PODS:
+  - SensoroBeaconKit (4.1.4)
+
+DEPENDENCIES:
+  - SensoroBeaconKit
+
+SPEC CHECKSUMS:
+  SensoroBeaconKit: 7c726518c65e162b912a2b843dd8a5ce02adac7b
+
+PODFILE CHECKSUM: 5ba3c5f09e3436e8ab0d81a6838389c70913cdc6
+
+COCOAPODS: 1.1.1
